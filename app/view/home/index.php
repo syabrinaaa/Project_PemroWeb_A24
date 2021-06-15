@@ -63,8 +63,8 @@
         <ul>
           <li><a class="nav-link scrollto " href="#hero">BERANDA</a></li>
           <li><a class="nav-link scrollto" href="#about">TENTANG KAMI</a></li>
-          <li><a class="nav-link scrollto" href="#services">KAMPANYE KAMI</a></li>
-          <li><a class="nav-link scrollto" href="#contact">DAFTAR KAMPANYE</a></li>
+          <li><a class="nav-link scrollto" href="#services">GERAKAN KAMI</a></li>
+          <li><a class="nav-link scrollto" href="#contact">DAFTAR IDE GERAKAN</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -92,18 +92,18 @@
         <!-- Slide 2 -->
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
           <div class="container">
-            <h2>Lorem Ipsum Dolor</h2>
-            <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
-            <a href="#about" class="btn-get-started scrollto">Read More</a>
+            <h2>Selamat Datang di SaveSea</h2>
+            <p>SaveSea adalah website untuk mencetuskan ide kampanye guna menjaga ekosistem laut di negeri kita</p>
+            <a href="#about" class="btn-get-started scrollto">Baca Lebih Lanjut</a>
           </div>
         </div>
 
         <!-- Slide 3 -->
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
           <div class="container">
-            <h2>Sequi ea ut et est quaerat</h2>
-            <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
-            <a href="#about" class="btn-get-started scrollto">Read More</a>
+            <h2>Selamat Datang di SaveSea</h2>
+            <p>SaveSea adalah website untuk mencetuskan ide gerakan/kampanye guna menjaga ekosistem laut di negeri kita</p>
+            <a href="#about" class="btn-get-started scrollto">Baca Lebih Lanjut</a>
           </div>
         </div>
 
@@ -170,7 +170,7 @@
 
         <div class="section-title">
           <h2>TENTANG KAMI</h2>
-          <p>SaveSea adalah website untuk mencetuskan ide kampanye guna melestarikan dan memanfaatkan secara berkelanjutan sumber daya kelautan dan samudera untuk pembangunan berkelanjutan.</p>
+          <p>SaveSea adalah website untuk mencetuskan ide gerakan/kampanye guna melestarikan dan memanfaatkan secara berkelanjutan sumber daya kelautan dan samudera untuk pembangunan berkelanjutan.</p>
           <p>Tujuan 14 TPB adalah melestarikan dan memanfaatkan secara berkelanjutan sumber daya kelautan dan samudera untuk pembangunan berkelanjutan. Dalam rangka mencapai tujuan nasional ekosistem lautan pada tahun 2030, ditetapkan 10 target yang diukur melalui 15 indikator. Target-target tersebut terdiri dari tata ruang laut dan pengelolaan wilayah laut berkelanjutan, penangkapan ikan dalam batasan biologis yang aman (MSY) dan pemberantasan IUU fisihing, peningkatan kawasan konservasi perairan dan pemanfaatan berkelanjutan, serta dukungan dan perlindungan nelayan kecil. Upaya-upaya yang dilakukan untuk mencapai target-target tersebut dijabarkan pada kebijakan, program dan kegiatan yang akan dilakukan oleh pemerintah maupun organisasi nonpemerintah.</p>
         </div>
 
@@ -179,20 +179,14 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <p class="fst-italic">
-              Kebijakan Tujuan 14. Kebijakan pengelolaan ekosistem lautan yang dilakukan pemerintah telah termuat dalam RPJMD 2017-2022 terkait pengembangan ekonomi maritim dan kelautan. Visi Misi Gubernur DIY pada RPJMD 2017-2022 yaitu “Menyongsong Abad Samudera Hindia untuk Kemuliaan Martabat Manusia Jogja”. Tujuan 14 Ekosistem Lautan merupakan bagian dari pembangunan Daerah Istimewa Yogyakarta, utamanya bidang Kelautan dan pesisir dan Bidang Perikanan. Dalam rangka pemeliharaan sumber daya dan mengoptimalkan pemanfaatan sumber daya kelautan untuk pembangunan, serta peningkatan produksi dan kesejahteraan nelayan, arah kebijakan pembangunan terkait pengelolaan Tujuan 14 Ekosistem Lautan difokuskan pada dua arah kebijakan utama, yaitu: (1) pengelolaan pesisir serta pengembangan ekonomi kelautan berkelanjutan, (2) pengelolaan kawasan konservasi perairan.
-            </p>
             <p>Arah kebijakan tersebut, dilaksanakan melalui upaya-upaya sebagai berikut:</p>
             <ul>
               <li><i class="bi bi-check-circle"></i> Meningkatkan tata kelola sumber daya kelautan, termasuk upaya penataan ruang laut dan harmonisasinya</li>
               <li><i class="bi bi-check-circle"></i> Meningkatkan konservasi, rehabilitasi dan peningkatan ketahanan masyarakat terhadap bencana di pesisir dan laut, termasuk penambahan luasan kawasan konservasi perairan dan penguatan kelembagaan serta efektivitas pengelolaannya</li>
               <li><i class="bi bi-check-circle"></i> Mengendalikan IUU fishing dan kegiatan yang merusak di laut</li>
               <li><i class="bi bi-check-circle"></i> Menguatkan peran SDM dan iptek kelautan serta budaya maritim</li>
-              <li><i class="bi bi-check-circle"></i> Meningkatkan produktivitas, optimalisasi kapasitas dan kontinuitas produksi perikanan, termasuk alokasi yang proporsional antara stok sumber daya ikan, serta penyediaan dan pengembangan teknologi penangkapan ikan yang efisien dan ramah lingkungan;</li>
+              <li><i class="bi bi-check-circle"></i> Meningkatkan produktivitas, optimalisasi kapasitas dan kontinuitas produksi perikanan, termasuk alokasi yang proporsional antara stok sumber daya ikan, serta penyediaan dan pengembangan teknologi penangkapan ikan yang efisien dan ramah lingkungan</li>
             </ul>
-            <p>
-              Program Tujuan 14. Berdasarkan arah kebijakan yang selaras dengan pencapaian Tujuan 14 TPB, program yang akan dilaksanakan antara lain: (1) Konservasi Ekosistem dan Pengawasan Sumber Daya Kelautan dan Perikanan, (2) Pengelolaan Pelabuhan.
-            </p>
           </div>
         </div>
 
@@ -210,7 +204,7 @@
               <i class="fas fa-user-md"></i>
               <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1" class="purecounter"></span>
 
-              <p><strong>Jumlah Daftar Ide Kampanye</strong> pada website SaveSea</p>
+              <p><strong>Jumlah Daftar Ide Gerakan</strong> pada website SaveSea</p>
               <a href="#">Baca Lebih Lanjut &raquo;</a>
             </div>
           </div>
@@ -219,7 +213,7 @@
             <div class="count-box">
               <i class="far fa-hospital"></i>
               <span data-purecounter-start="0" data-purecounter-end="30" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Jumlah Kampanye</strong> yang telah dilakukan SaveSea</p>
+              <p><strong>Jumlah Gerakan</strong> yang telah dilakukan SaveSea</p>
               <a href="#">Baca Lebih Lanjut &raquo;</a>
             </div>
           </div>
@@ -228,7 +222,7 @@
             <div class="count-box">
               <i class="fas fa-flask"></i>
               <span data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Jumlah Relawan</strong> yang telah menjadi anggota SaveSea</p>
+              <p><strong>Jumlah Relawan dan Aktivis</strong> yang telah menjadi anggota SaveSea</p>
               <a href="#">Baca Lebih Lanjut &raquo;</a>
             </div>
           </div>
@@ -252,7 +246,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
+          <h2>GERAKAN KAMI</h2>
           <p>Berikut beberapa gerakan yang sudah dilakukan SaveSea</p>
         </div>
 
@@ -282,8 +276,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Gallery</h2>
-          <p>Berikut foto-foto ketika kami melakukan gerakan</p>
+          <h2>GALERI</h2>
+          <p>Berikut foto-foto ketika kami melakukan kampanye</p>
         </div>
 
         <div class="gallery-slider swiper-container">
@@ -308,8 +302,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>DAFTAR IDE KAMPANYE</h2>
-          <p>Silahkan tulis ide kampanye dan jelaskan bagaimana kampanye tersebut </p>
+          <h2>DAFTAR IDE GERAKAN</h2>
+          <p>Silahkan tulis ide gerakan dan jelaskan bagaimana dan apa alasannya hingga dilakukan gerakan tersebut</p>
         </div>
 
       </div>
@@ -365,7 +359,7 @@
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Ide kampanye Anda sudah terkirim. Terima kasih!</div>
+                <div class="sent-message">Ide gerakan Anda sudah terkirim. Terima kasih!</div>
               </div>
               <div class="text-center"><button type="submit">KIRIM</button></div>
             </form>
