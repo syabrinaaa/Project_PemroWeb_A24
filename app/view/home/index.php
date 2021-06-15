@@ -84,7 +84,7 @@
         <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
           <div class="container">
             <h2>Selamat Datang di <span>SaveSea</span></h2>
-            <p>SaveSea adalah website untuk mencetuskan ide kampanye guna menjaga ekosistem laut di negeri kita</p>
+            <p>SaveSea adalah website untuk mencetuskan ide gerakan guna menjaga ekosistem laut di negeri kita</p>
             <a href="#about" class="btn-get-started scrollto">Baca Lebih Lanjut</a>
           </div>
         </div>
@@ -93,7 +93,7 @@
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
           <div class="container">
             <h2>Selamat Datang di SaveSea</h2>
-            <p>SaveSea adalah website untuk mencetuskan ide kampanye guna menjaga ekosistem laut di negeri kita</p>
+            <p>SaveSea adalah website untuk mencetuskan ide gerakan guna menjaga ekosistem laut di negeri kita</p>
             <a href="#about" class="btn-get-started scrollto">Baca Lebih Lanjut</a>
           </div>
         </div>
