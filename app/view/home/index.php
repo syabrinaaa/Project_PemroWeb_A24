@@ -130,32 +130,32 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="fas fa-heartbeat"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4 class="title"><a href="">SaveSea menjalankan aksi tanpa kekerasan</a></h4>
+              <p class="description">Kami berkomitmen penuh terhadap perdamaian</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="fas fa-pills"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4 class="title"><a href="">SaveSea mandiri</a></h4>
+              <p class="description">Sejak berdiri, SaveSea tidak menerima uang dari pihak manapun. Donasi individu adalah tulang punggung SaveSea</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="fas fa-thermometer"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4 class="title"><a href="">SaveSea Tidak Punya Lawan ataupun Kawan</a></h4>
+              <p class="description">Jika sebuah pemerintahan atau perusahaan punya komitmen untuk membuat perubahan positif, kami akan bekerja sama demi mewujudkan perubahan itu. Tetapi jika komitmen itu berubah atau tidak dijalankan, kami akan kembali berkampanye</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="fas fa-dna"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4 class="title"><a href="">SaveSea mempromosikan solusi</a></h4>
+              <p class="description">SaveSea melakukan perencanaan, melakukan penelitian, kemudian dan mengkampanyekan langkah-langkah tersebut dengan nyata</p>
             </div>
           </div>
 
@@ -276,8 +276,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>GALERI</h2>
-          <p>Berikut foto-foto ketika kami melakukan kampanye</p>
+          <h2>GALERI FOTO</h2>
+          <p>Berikut foto-foto ketika kami melakukan gerakan</p>
         </div>
 
         <div class="gallery-slider swiper-container">
@@ -341,27 +341,27 @@
           </div>
 
           <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="<?= BASEURL ?>/home/tambah" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Nama Lengkap" required>
+                  <input type="text" name="nama_lengkap" class="form-control" id="nama_lengkap" placeholder="Nama Lengkap" required>
                 </div>
                 <div class="col form-group mt-3">
                   <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Ide Kampanye" required>
+                <input type="text" class="form-control" name="ide_gerakan" id="ide_gerakan" placeholder="Ide Gerakan" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Penjelasan Kampanye" required></textarea>
+                <textarea class="form-control" name="penjelasan_gerakan" id="penjelasan_gerakan" rows="5" placeholder="Penjelasan Gerakan" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
                 <div class="sent-message">Ide gerakan Anda sudah terkirim. Terima kasih!</div>
               </div>
-              <div class="text-center"><button type="submit">KIRIM</button></div>
+              <div class="text-center"><button id="form-submit" name='submit_gerakan' type="submit">KIRIM</button></div>
             </form>
           </div>
 
