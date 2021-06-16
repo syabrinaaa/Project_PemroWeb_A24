@@ -11,7 +11,7 @@
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/apple-touch-icon.jpg" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -55,7 +55,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt=""></a>
+      <a href="<?= BASE_URL; ?>" class="logo me-auto"><img src="assets/img/logo.png" alt=""></a>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <h1 class="logo me-auto"><a href="index.html">Medicio</a></h1> -->
 
@@ -99,7 +99,7 @@
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpeg)">
           <div class="container">
             <h2>Selamat Datang di SaveSea</h2>
             <p>SaveSea adalah website untuk mencetuskan ide gerakan/kampanye guna menjaga ekosistem laut di negeri kita</p>
@@ -341,20 +341,20 @@
           </div>
 
           <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="<?= BASEURL; ?>home/tambah/" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Nama Lengkap" required>
+                  <input type="text" name="nama_lengkap" class="form-control" id="nama_lengkap" placeholder="Nama Lengkap" required>
                 </div>
                 <div class="col form-group mt-3">
                   <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Ide Kampanye" required>
+                <input type="text" class="form-control" name="judul_gerakan" id="judul_gerakan" placeholder="Ide Kampanye" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Penjelasan Kampanye" required></textarea>
+                <textarea class="form-control" name="penjelasan_gerakan" id="penjelasan_gerakan" rows="5" placeholder="Penjelasan Kampanye" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
@@ -379,7 +379,6 @@
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
   <script src="assets/vendor/purecounter/purecounter.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 

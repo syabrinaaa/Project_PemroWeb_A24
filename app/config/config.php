@@ -1,6 +1,6 @@
 <?php
 
-define('BASEURL', 'http://localhost/projek_pweb/public/');
+define('BASEURL', 'http://localhost/pweb/public/');
 
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
