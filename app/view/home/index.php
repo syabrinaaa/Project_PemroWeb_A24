@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/apple-touch-icon.jpg" rel="icon">
+  <link href="assets/img/apple-touch-icon.jpg" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -55,7 +55,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt=""></a>
+      <a href="<?= BASEURL; ?>" class="logo me-auto">SaveSea</a>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <h1 class="logo me-auto"><a href="index.html">Medicio</a></h1> -->
 
@@ -84,7 +84,7 @@
         <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
           <div class="container">
             <h2>Selamat Datang di <span>SaveSea</span></h2>
-            <p>SaveSea adalah website untuk mencetuskan ide gerakan guna menjaga ekosistem laut di negeri kita</p>
+            <p>SaveSea adalah website untuk mencetuskan ide gerakan/kampanye guna menjaga ekosistem laut di negeri kita</p>
             <a href="#about" class="btn-get-started scrollto">Baca Lebih Lanjut</a>
           </div>
         </div>
@@ -93,13 +93,13 @@
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
           <div class="container">
             <h2>Selamat Datang di SaveSea</h2>
-            <p>SaveSea adalah website untuk mencetuskan ide gerakan guna menjaga ekosistem laut di negeri kita</p>
+            <p>SaveSea adalah website untuk mencetuskan ide gerakan/kampanye guna menjaga ekosistem laut di negeri kita</p>
             <a href="#about" class="btn-get-started scrollto">Baca Lebih Lanjut</a>
           </div>
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpeg)">
           <div class="container">
             <h2>Selamat Datang di SaveSea</h2>
             <p>SaveSea adalah website untuk mencetuskan ide gerakan/kampanye guna menjaga ekosistem laut di negeri kita</p>
@@ -130,7 +130,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="fas fa-heartbeat"></i></div>
-              <h4 class="title"><a href="">SaveSea menjalankan aksi tanpa kekerasan</a></h4>
+              <h4 class="title"><a href="">SaveSea berkampanye tanpa kekerasan</a></h4>
               <p class="description">Kami berkomitmen penuh terhadap perdamaian</p>
             </div>
           </div>
@@ -138,24 +138,24 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="fas fa-pills"></i></div>
-              <h4 class="title"><a href="">SaveSea mandiri</a></h4>
-              <p class="description">Sejak berdiri, SaveSea tidak menerima uang dari pihak manapun. Donasi individu adalah tulang punggung SaveSea</p>
+              <h4 class="title"><a href="">SaveSea berdonasi mandiri</a></h4>
+              <p class="description">Kami berdonasi secara individu demi mewujudkan kampanye</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="fas fa-thermometer"></i></div>
-              <h4 class="title"><a href="">SaveSea Tidak Punya Lawan ataupun Kawan</a></h4>
-              <p class="description">Jika sebuah pemerintahan atau perusahaan punya komitmen untuk membuat perubahan positif, kami akan bekerja sama demi mewujudkan perubahan itu. Tetapi jika komitmen itu berubah atau tidak dijalankan, kami akan kembali berkampanye</p>
+              <h4 class="title"><a href="">SaveSea berkomitmen membuat perubahan positif</a></h4>
+              <p class="description">Kami berkomitmen untuk membuat perubahan positif dan berusaha untuk mewujudkannya</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="fas fa-dna"></i></div>
-              <h4 class="title"><a href="">SaveSea mempromosikan solusi</a></h4>
-              <p class="description">SaveSea melakukan perencanaan, melakukan penelitian, kemudian dan mengkampanyekan langkah-langkah tersebut dengan nyata</p>
+              <h4 class="title"><a href="">SaveSea berkampanye secara nyata</a></h4>
+              <p class="description">Kami melakukan perencanaan, penelitian, kemudian mengkampanyekan langkah-langkah tersebut dengan nyata</p>
             </div>
           </div>
 
@@ -171,7 +171,7 @@
         <div class="section-title">
           <h2>TENTANG KAMI</h2>
           <p>SaveSea adalah website untuk mencetuskan ide gerakan/kampanye guna melestarikan dan memanfaatkan secara berkelanjutan sumber daya kelautan dan samudera untuk pembangunan berkelanjutan.</p>
-          <p>Tujuan 14 TPB adalah melestarikan dan memanfaatkan secara berkelanjutan sumber daya kelautan dan samudera untuk pembangunan berkelanjutan. Dalam rangka mencapai tujuan nasional ekosistem lautan pada tahun 2030, ditetapkan 10 target yang diukur melalui 15 indikator. Target-target tersebut terdiri dari tata ruang laut dan pengelolaan wilayah laut berkelanjutan, penangkapan ikan dalam batasan biologis yang aman (MSY) dan pemberantasan IUU fisihing, peningkatan kawasan konservasi perairan dan pemanfaatan berkelanjutan, serta dukungan dan perlindungan nelayan kecil. Upaya-upaya yang dilakukan untuk mencapai target-target tersebut dijabarkan pada kebijakan, program dan kegiatan yang akan dilakukan oleh pemerintah maupun organisasi nonpemerintah.</p>
+          <p>Tujuan ke-14 SDGs (Sustainable Development Goals) adalah melestarikan dan memanfaatkan secara berkelanjutan sumber daya kelautan dan samudera untuk pembangunan berkelanjutan. Dalam rangka mencapai tujuan nasional ekosistem lautan pada tahun 2030, ditetapkan 10 target yang diukur melalui 15 indikator. Target-target tersebut terdiri dari tata ruang laut dan pengelolaan wilayah laut berkelanjutan, penangkapan ikan dalam batasan biologis yang aman (MSY) dan pemberantasan IUU fisihing, peningkatan kawasan konservasi perairan dan pemanfaatan berkelanjutan, serta dukungan dan perlindungan nelayan kecil. Upaya-upaya yang dilakukan untuk mencapai target-target tersebut dijabarkan pada kebijakan, program dan kegiatan yang akan dilakukan oleh pemerintah maupun organisasi nonpemerintah.</p>
         </div>
 
         <div class="row">
@@ -179,7 +179,7 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <p>Arah kebijakan tersebut, dilaksanakan melalui upaya-upaya sebagai berikut:</p>
+            <p>Kebijakan tersebut dilaksanakan melalui upaya-upaya sebagai berikut:</p>
             <ul>
               <li><i class="bi bi-check-circle"></i> Meningkatkan tata kelola sumber daya kelautan, termasuk upaya penataan ruang laut dan harmonisasinya</li>
               <li><i class="bi bi-check-circle"></i> Meningkatkan konservasi, rehabilitasi dan peningkatan ketahanan masyarakat terhadap bencana di pesisir dan laut, termasuk penambahan luasan kawasan konservasi perairan dan penguatan kelembagaan serta efektivitas pengelolaannya</li>
@@ -204,8 +204,7 @@
               <i class="fas fa-user-md"></i>
               <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1" class="purecounter"></span>
 
-              <p><strong>Jumlah Daftar Ide Gerakan</strong> pada website SaveSea</p>
-              <a href="#">Baca Lebih Lanjut &raquo;</a>
+              <p><strong>Jumlah Ide Gerakan</strong> yang didaftarkan pada website SaveSea</p>
             </div>
           </div>
 
@@ -214,7 +213,7 @@
               <i class="far fa-hospital"></i>
               <span data-purecounter-start="0" data-purecounter-end="30" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Jumlah Gerakan</strong> yang telah dilakukan SaveSea</p>
-              <a href="#">Baca Lebih Lanjut &raquo;</a>
+              
             </div>
           </div>
 
@@ -222,8 +221,8 @@
             <div class="count-box">
               <i class="fas fa-flask"></i>
               <span data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Jumlah Relawan dan Aktivis</strong> yang telah menjadi anggota SaveSea</p>
-              <a href="#">Baca Lebih Lanjut &raquo;</a>
+              <p><strong>Jumlah Aktivis</strong> yang telah menjadi anggota SaveSea</p>
+              
             </div>
           </div>
 
@@ -232,7 +231,7 @@
               <i class="fas fa-award"></i>
               <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Jumlah Penghargaan</strong> yang telah didapatkan SaveSea</p>
-              <a href="#">Baca Lebih Lanjut &raquo;</a>
+              
             </div>
           </div>
 
@@ -276,8 +275,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>GALERI FOTO</h2>
-          <p>Berikut foto-foto ketika kami melakukan gerakan</p>
+          <h2>GALERI</h2>
+          <p>Berikut foto-foto yang kami ambil dari bawah laut</p>
         </div>
 
         <div class="gallery-slider swiper-container">
@@ -333,7 +332,7 @@
                 <div class="info-box mt-4">
                   <i class="bx bx-phone-call"></i>
                   <h3>Hubungi Kami</h3>
-                  <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                  <p>081234567890<br>085473129103</p>
                 </div>
               </div>
             </div>
@@ -341,7 +340,7 @@
           </div>
 
           <div class="col-lg-6">
-            <form action="<?= BASEURL ?>/home/tambah" method="post" role="form" class="php-email-form">
+            <form action="<?= BASEURL; ?>home/tambah/" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col form-group">
                   <input type="text" name="nama_lengkap" class="form-control" id="nama_lengkap" placeholder="Nama Lengkap" required>
@@ -351,17 +350,12 @@
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="ide_gerakan" id="ide_gerakan" placeholder="Ide Gerakan" required>
+                <input type="text" class="form-control" name="judul_gerakan" id="judul_gerakan" placeholder="Ide Kampanye" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="penjelasan_gerakan" id="penjelasan_gerakan" rows="5" placeholder="Penjelasan Gerakan" required></textarea>
+                <textarea class="form-control" name="penjelasan_gerakan" id="penjelasan_gerakan" rows="5" placeholder="Penjelasan Kampanye" required></textarea>
               </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Ide gerakan Anda sudah terkirim. Terima kasih!</div>
-              </div>
-              <div class="text-center"><button id="form-submit" name='submit_gerakan' type="submit">KIRIM</button></div>
+              <div class="text-center"><button type="submit">KIRIM</button></div>
             </form>
           </div>
 
@@ -379,7 +373,6 @@
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
   <script src="assets/vendor/purecounter/purecounter.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 
