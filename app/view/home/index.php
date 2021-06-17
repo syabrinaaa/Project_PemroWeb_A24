@@ -43,10 +43,10 @@
   <div id="topbar" class="d-flex align-items-center fixed-top">
     <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
       <div class="align-items-center d-none d-md-flex">
-        <i class="bi bi-clock"></i> Everyday
+        <i class="bi bi-clock"></i>Melayani dari 08.00 WIB - 21.00 WIB
       </div>
       <div class="d-flex align-items-center">
-        <i class="bi bi-phone"></i> Hubungi Kami +1 5589 55488 55
+        <i class="bi bi-phone"></i>Hubungi Kami 081234567890 atau 085473129103
       </div>
     </div>
   </div>
